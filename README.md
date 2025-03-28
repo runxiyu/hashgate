@@ -1,7 +1,11 @@
 # HashGate
 
-HashGate selectively blocks JavaScript based on SHA-256 hashes specifiable by
+HashGate selectively allows JavaScript based on SHA-256 hashes specifiable by
 the user.
+
+## Bugs
+
+* Currently does not block inline scripts.
 
 ## Contribute
 
